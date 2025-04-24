@@ -1,3 +1,3 @@
 # third
 i make this repo independent
-hello i'm giga
+hello i'm giga :)
